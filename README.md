@@ -1,4 +1,4 @@
-REST-Assured API Automation
+REST-Assured API Test Framework Scalable 
 
 A lightweight and modular API Automation Framework using REST Assured + TestNG.
 Covers API best practices like Authentication, JSON Schema Validation, Chaining, and Reporting.
